@@ -8,7 +8,8 @@ This project has the purpose of create a simple crud application just to study A
 
 ## Development server
 
-Clone this project and also AngularCod3r.backend 
+Clone this project and also AngularCod3r.backend, start both projects and go to `http://localhost:4200/`
+
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
